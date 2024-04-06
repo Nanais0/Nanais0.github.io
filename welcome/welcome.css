@@ -1,0 +1,23 @@
+body {
+	background-image:url("https://pic3.zhimg.com/v2-b5979d7838725b6d718d8dc1f5c98c0a_r.jpg");
+	background-size:cover;
+	background-attachment: fixed;
+}
+
+* {
+	text-align: center;
+}
+
+#welcome-text {
+    font-family: Arial, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-size:30px;
+	size:blone;
+}
+
+button {
+	width:30%;
+	margin-left:5px;
+	margin-right:5px;
+	border:none;
+	background-color: green;
+}
